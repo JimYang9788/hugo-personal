@@ -97,7 +97,7 @@ params:
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: Jim yang
     author_title: Software Engineer
-    author_description: Good Good Study, Day Day Up~
+    author_description: Everyone has a plan, until they got punched in the face
     location: California, US
     follow: https://github.com/JimYang9788
     # Social Links
@@ -143,7 +143,7 @@ params:
       appkey: # your leancloud application appkey
       notify: # mail notifier , https://github.com/xCss/Valine/wiki
       verify: # Verification code
-      placeholder: enjoy~ # comment box placeholder
+      placeholder: # comment box placeholder
       avatar: mm # gravatar style
       meta: nick,mail # custom comment header
       pageSize: 10 # pagination size
