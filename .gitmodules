@@ -1,0 +1,4 @@
+[submodule "path_to_submodule"] 
+  path = themes/pure 
+  url = https://github.com/xiaoheiAh/hugo-theme-pure.git
+  
