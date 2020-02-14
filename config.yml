@@ -1,5 +1,5 @@
 baseURL: https://jimyang.me
-theme: pure
+theme: hugo-theme-pure
 title: Jim Yang
 defaultContentLanguage: en  # en/zh/...
 footnoteReturnLinkContents: ↩
