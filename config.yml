@@ -96,8 +96,8 @@ params:
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: Jim yang
-    author_title: Software Engineer
-    author_description: Everyone has a plan, until they got punched in the face
+    author_title: Software Engineer, Seasoned Sleepaholic, Hardcore Guitarist
+    author_description: Everyone has a plan, until they got punched in the face, right? 
     location: California, US
     follow: https://github.com/JimYang9788
     # Social Links
@@ -119,7 +119,7 @@ params:
       url: favicon.ico
     title: Hugo # 页面title
     favicon: favicon.ico
-    board: <p>Hello</p> # 公告牌
+    board: <p>Hello friend!</p> # 公告牌
 
   # Share
   # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
