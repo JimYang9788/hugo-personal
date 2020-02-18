@@ -63,6 +63,7 @@ menu:
       weight: 5
 
 
+
 params:
   since: 2017
   dateFormatToUse: "2006-01-02"
@@ -96,7 +97,7 @@ params:
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: Jim yang
-    author_title: Software Engineer
+    author_title: Sleepaholic, Developer, Painter, Boxer 
     author_description: Everyone has a plan, until they got punched in the face
     location: California, US
     follow: https://github.com/JimYang9788
