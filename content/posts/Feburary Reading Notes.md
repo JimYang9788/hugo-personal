@@ -15,10 +15,6 @@ draft: true
 
 #### 《鼠疫》 *The Plague* By Albert Camus 
 
-#### 《傲慢与偏见》 *Pride and Prejudice* By Jane Austin
-“骄傲多指我们对自己的看法，虚荣多指我们想要别人对我抱有什么看法”
-
-“男女恋爱大都含有感恩图报和爱慕虚荣的成分，因此听其自然是不保险的。”
 #### 《活着》余华
 
 ### 《水流众生》李健
@@ -31,4 +27,14 @@ draft: true
 “唐古拉山崎岖路上从不缺勇敢。”
 
 
+#### 《傲慢与偏见》 *Pride and Prejudice* By Jane Austin
 
+
+“骄傲多指我们对自己的看法，虚荣多指我们想要别人对我抱有什么看法”
+
+“男女恋爱大都含有感恩图报和爱慕虚荣的成分，因此听其自然是不保险的。”
+
+Pride and Prejudice is a romantic novel of manners written by Jane Austen in 1813. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness. Its humour lies in its honest depiction of manners, education, marriage, and money during the Regency era in Great Britain.
+
+
+The Regency in the United Kingdom of Great Britain and Ireland was a period at the end of the Georgian era, when King George III was deemed unfit to rule due to his illness, and his son ruled as his proxy, as prince regent. Upon George III's death in 1820, the prince regent became King George IV. The term Regency (or Regency era) can refer to various stretches of time; some are longer than the decade of the formal Regency which lasted from 1811 to 1820. The period from 1795 to 1837, which includes the latter part of George III's reign and the reigns of his sons George IV and William IV, is sometimes regarded as the Regency era, characterised by distinctive trends in British architecture, literature, fashions, politics, and culture.
