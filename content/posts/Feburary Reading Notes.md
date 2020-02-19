@@ -1,0 +1,40 @@
+---
+title: Feburary Reading Notes 二月读书笔记
+date: 2020-02-11T22:13:28-07:00
+draft: true
+---
+### 前言 
+来到卡尔加里以后的实习时光飞梭，转眼已经快来到二月的尽头。或许是惯性，人在最繁忙的时光里，往往能抓住更多的时间来做以往想做的事情。早在一九年冬天在加州实习时，我就萌生了边阅读，边整理笔记到自己的网站上的念头。这样不但可以督促自己阅读时思考和总结的习惯，也可以留一个微信之外和朋友讨论好书好歌的空间。但种种原因，一直未能实现。而一九年阅读的多少书籍，不少也成了囫囵吞枣，未能及时整理消化。
+
+这般想法拖到了新的十年。搬到卡尔加里以后，生命的指针指向了我过去十年里从来没有过的自由。当身边的朋友都在南下纽约，西进加州时，我和内心几经商量，扔去了所有纽约和加州的Offer，选择了“北上”卡尔加里。这仿佛是我和命运联手向今天的自己开的一个玩笑。诚然，来到这个或多或少寂寥闲散的城市，心中很难说是没有后悔情绪的。但也兴许是大学的五年起起伏伏，当身边的每一个人都能对自己做出客观评价时，我似乎都不能正视自己究竟是什么样的一个人。这个看似荒诞的决定，反而借机给我了一个封闭和安静的环境里，不受旁人的眼光影响，去好好思考和丰富自己的四个月。于是，我开始着手办置自己的网站和读书笔记(同时也落俗地将自己每天做Leetcode和读编程/金融的笔记放在另外一个书签下，算是还阅读的一片净土)。至此，愿思考不停止。
+
+“真正的自由是自律”。这也算是我内心的一份满足和自私吧。
+
+关于写作，如果能用英语，我会努力练习写英文的commentary, 但实在拙于文笔，和愧于在IB英语荆棘滚爬中被击碎的自尊心作祟，头几个月的分析还是会多用中文写。
+
+
+#### 《鼠疫》 *The Plague* By Albert Camus 
+
+#### 《活着》余华
+
+### 《水流众生》李健
+
+从中学时代开始，就喜欢听李健的歌。弃用Spotify以后做的第一件事，就是在QQ音乐上搜索李健2017年以后的新歌。几经搜索，《一念一生》、《城市之光》分别作为最近脍炙人口的《庆余年》和《心理罪之城市之光》的主题曲登上了搜索榜首。它们都是优秀的作品，但歌词直击心里的，不得不提这首《水流众生》
+
+憨山大师：“荆棘丛中下足易，月明帘下转身难” --QQ音乐花花评论
+仓央嘉措：“转山转水转佛塔，不维修来世，只为途中与你相见。”
+
+“唐古拉山崎岖路上从不缺勇敢。”
+
+
+#### 《傲慢与偏见》 *Pride and Prejudice* By Jane Austin
+
+
+“骄傲多指我们对自己的看法，虚荣多指我们想要别人对我抱有什么看法”
+
+“男女恋爱大都含有感恩图报和爱慕虚荣的成分，因此听其自然是不保险的。”
+
+Pride and Prejudice is a romantic novel of manners written by Jane Austen in 1813. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness. Its humour lies in its honest depiction of manners, education, marriage, and money during the Regency era in Great Britain.
+
+
+The Regency in the United Kingdom of Great Britain and Ireland was a period at the end of the Georgian era, when King George III was deemed unfit to rule due to his illness, and his son ruled as his proxy, as prince regent. Upon George III's death in 1820, the prince regent became King George IV. The term Regency (or Regency era) can refer to various stretches of time; some are longer than the decade of the formal Regency which lasted from 1811 to 1820. The period from 1795 to 1837, which includes the latter part of George III's reign and the reigns of his sons George IV and William IV, is sometimes regarded as the Regency era, characterised by distinctive trends in British architecture, literature, fashions, politics, and culture.
