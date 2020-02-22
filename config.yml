@@ -106,8 +106,6 @@ params:
       links:
         github: https://github.com/JimYang9788
         linkedin: https://www.linkedin.com/in/JimYang9788
-        # weibo: http://weibo.com/{yourid}
-        # twitter: https://twitter.com/
         facebook: https://www.facebook.com/jim.yang.3114 
         rss: /index.xml
       link_tooltip: false # enable the social link tooltip, options: true, false
