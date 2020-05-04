@@ -50,7 +50,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Jim Yang"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -77,7 +77,7 @@ disableLanguages        = [""]
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = ""
 
   [params.sidebar]
     about               = "test"
