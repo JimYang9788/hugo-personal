@@ -4,3 +4,6 @@
 [submodule "themes/pure"]
 	path = themes/pure
 	url = https://github.com/xiaoheiAh/hugo-theme-pure
+[submodule "hugo-future-imperfect-slim"]
+	path = hugo-future-imperfect-slim
+	url = https://github.com/pacollins/hugo-future-imperfect-slim.git
