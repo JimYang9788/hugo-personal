@@ -314,12 +314,12 @@ disableLanguages        = [""]
 [social]
   # Coding Communities
   github                = "https://github.com/JimYang9788"
-  bitbucket             = ""
-  jsfiddle              = ""
-  codepen               = ""
+  # bitbucket             = ""
+  # jsfiddle              = ""
+  # codepen               = ""
   # Visual Art Communities
-  deviantart            = ""
-  flickr                = "example"
+  # deviantart            = ""
+  flickr                = ""
   behance               = ""
   dribbble              = ""
   # Publishing Communities
@@ -333,7 +333,7 @@ disableLanguages        = [""]
   # Social Networks
   facebook              = "example"
   googleplus            = ""
-  reddit                = "example"
+  reddit                = ""
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -341,18 +341,18 @@ disableLanguages        = [""]
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
+  instagram             = "https://www.instagram.com/tempo_jim/"
   tumblr                = ""
-  twitter               = "example"
+  twitter               = ""
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
+  pinterest             = ""
+  telegram              = ""
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  researchgate          = ""
+  keybase               = ""
+  # mastodon              = "example.com/@example"
   # Email
-  email                 = "example"
+  email                 = "jyang9788@gmail.com"
