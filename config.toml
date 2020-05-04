@@ -1,6 +1,6 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "https://jimyang.site/"
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "Jim Yang"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
@@ -60,8 +60,8 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "Jim Yang"
+    paragraph             = "Sleepaholic, Developer, Painter, Boxer"
     rssIntro              = true
     socialIntro           = true
     # You may not want to display a long intro above content in the
