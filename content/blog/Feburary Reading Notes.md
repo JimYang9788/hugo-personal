@@ -3,12 +3,12 @@ title: Feburary 2020
 date: 2020-02-20T22:13:28-07:00
 draft: false
 ---
-![Image](/static/img/CalgaryLife.jpg)
+<!-- ![Image](/static/img/CalgaryLife.jpg) -->
 
 ![Image2](/img/CalgaryLife.jpg)
-
+<!-- 
 <img src="/static/img/CalgaryLife.jpg" />
-<img src="/img/CalgaryLife.jpg" />
+<img src="/img/CalgaryLife.jpg" /> -->
 
 
 ### 前言 
