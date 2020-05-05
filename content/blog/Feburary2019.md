@@ -4,7 +4,7 @@ date = "2019-02-27"
 category = ["Diary"]
 +++
 
-![Painting](/img/Painting1.jpeg) {:height="250px" width="250px"}
+![Painting](/img/Painting1.jpeg)
 
 Days spent in the Bay Area have been meaningful and lonely at the same time.
 
