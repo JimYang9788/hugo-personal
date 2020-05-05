@@ -1,8 +1,9 @@
----
-title: "Feburary 2019"
-date: 2019-02-27T22:13:28-07:00
-draft: false
----
++++
+title ="Feburary 2019"
+date = "2019-02-27"
+category = ["Diary"]
++++
+
 ![Painting](/img/Painting1.jpeg)
 
 Days spent in the Bay Area have been meaningful and lonely at the same time.

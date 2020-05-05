@@ -1,8 +1,8 @@
----
-title: 败者为王 观后感
-date: 2020-04-17T22:13:28-07:00
-draft: false
----
++++
+title ="Rise of the Legend - Commentary"
+date = "2020-03-30"
+category = ["Badminton"]
++++
 
 ![LeeChongwei](/img/Leechongwei.jpg)
 
