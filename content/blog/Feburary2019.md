@@ -3,6 +3,8 @@ title: "Feburary 2019"
 date: 2019-02-27T22:13:28-07:00
 draft: false
 ---
+![Painting](/img/Painting1.jpeg)
+
 Days spent in the Bay Area have been meaningful and lonely at the same time.
 
 At the beginning of 2019, I decided to read more a lot more non-technical books. During my time studying at University of Waterloo, I found myself only reading tool books related to Finance and Computer Science. At one time, I really started to miss my second year in IB, where I read books like Ian McEvan’s Atonement, Rohinton Mistry’s A Fine Balance and Cormac McCarthy’s All The Pretty Horses. On one hand I was forced to read all these books, because I need to write commentaries; on the other hand, I was so in love the stories, and even til now I still remember some quotes. One of my favourite quote from A Fine Balance was:
