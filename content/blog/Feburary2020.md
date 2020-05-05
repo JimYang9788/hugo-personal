@@ -5,7 +5,7 @@ date = "2020-02-28"
 category = ["Diary"]
 +++
 
-![Image2](/img/CalgaryLife.jpg =250x)  
+![Image2](/img/CalgaryLife.jpg){:height="250px" width="250px"}
 Me and my university room mate.   
 
 ### 前言 
