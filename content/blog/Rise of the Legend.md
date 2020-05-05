@@ -4,7 +4,7 @@ date = "2020-03-30"
 category = ["Badminton"]
 +++
 
-![LeeChongwei](/img/Leechongwei.jpg)
+![LeeChongwei](/img/Leechongwei.jpg =250x)
 
 上周又看了一遍李宗伟的自传电影《败者为王》，感触很多，谈谈我不喜欢的地方
 
