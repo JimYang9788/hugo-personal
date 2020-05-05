@@ -1,7 +1,7 @@
 +++
 title = "About me"
 date = "2020-04-30"
-img = ["img/Calgary Life.jpeg"]
+images = ["img/Calgary Life.jpeg"]
 +++
 
 Hello! I'm a 4th year Computer Science and Statistics student from University of Waterloo. I have interned at various software companies and finance companies in my past years of studying, and 
