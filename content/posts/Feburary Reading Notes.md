@@ -1,5 +1,5 @@
 ---
-title: Feburary Reading Notes 二月读书笔记
+title: Feburary
 date: 2020-02-20T22:13:28-07:00
 draft: false
 ---
