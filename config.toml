@@ -313,7 +313,7 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "https://github.com/JimYang9788"
+  github                = "JimYang9788"
   # bitbucket             = ""
   # jsfiddle              = ""
   # codepen               = ""
@@ -326,7 +326,7 @@ disableLanguages        = [""]
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "https://www.linkedin.com/in/jimyang9788/"
+  linkedin              = "jimyang9788"
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
@@ -341,7 +341,7 @@ disableLanguages        = [""]
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "https://www.instagram.com/tempo_jim/"
+  instagram             = "tempo_jim"
   tumblr                = ""
   twitter               = ""
   skype                 = ""
