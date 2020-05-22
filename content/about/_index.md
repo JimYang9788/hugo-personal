@@ -23,7 +23,7 @@ Technical Booklist 2020
 * Option Volatility & Pricing By NatenBerg
 * Hands on Machine Learning 
 
-I am almost graduating, and I am planning on travelling around the world after I graduate. 
+I am almost graduating, and I am planning on joining AISEC and travelling around the world after I graduate. 
 
 Feel free to reach me at jyang9788@gmail.com 
 
