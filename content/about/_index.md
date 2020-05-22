@@ -5,14 +5,11 @@ images = ["img/CalgaryLife.jpg"]
 
 +++
 
-Hello! I'm a 4th year Computer Science and Statistics student from University of Waterloo. I have interned at various software companies and finance companies in my past years of studying, and 
+Hello! I'm a 4th year Computer Science and Statistics student from University of Waterloo. I have interned at various software companies and finance companies in my past years of studying, and aside from work, I am also a hardcore metal guitarist, an avid community volunteer and a wannabe junior boxer.
 
+I am actively learning how to cook and how to paint (specifically water ink) in my spare time. 
 
-Aside from work, I am also a hardcore metal guitarist, an avid community volunteer and a wannabe junior boxer.
-
-I am actively learning how to cook and how to paint (specifically water ink) in my spare time.  I am really enjoy cooking at the moment.
-
-Non-technical Booklist 2020 (Please PM in the Contact tab if you have recommendations!):
+I keep a non-technical Booklist for 2020 (Please PM in the Contact tab if you have recommendations!):
 
 * ~~The Plague~~  
 * ~~Pride and Predjudice~~
