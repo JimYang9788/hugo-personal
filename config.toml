@@ -61,7 +61,7 @@ disableLanguages        = [""]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Jim Yang"
-    paragraph             = "Sleepaholic, Developer, Painter, Boxer"
+    paragraph             = "Sleepaholic, Developer, Unhealthy Guitar Collector, Boxer "
     rssIntro              = true
     socialIntro           = true
     # You may not want to display a long intro above content in the
