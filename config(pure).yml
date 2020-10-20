@@ -97,7 +97,7 @@ params:
     avatar: avatar.png
     gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
     author: Jim yang
-    author_title: Sleepaholic, Developer, Painter, Boxer 
+    author_title: Sleepaholic, Developer, Unhealthy Guitar Collector, Boxer 
     author_description: "Don't comment bad code, rewrite it." 
     location: California, US
     follow: https://github.com/JimYang9788
